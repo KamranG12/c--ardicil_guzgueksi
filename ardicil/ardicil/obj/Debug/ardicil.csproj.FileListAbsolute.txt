@@ -1,0 +1,12 @@
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\bin\Debug\ardicil.exe.config
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\bin\Debug\ardicil.exe
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\bin\Debug\ardicil.pdb
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\obj\Debug\ardicil.csprojResolveAssemblyReference.cache
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\obj\Debug\ardicil.exe
+c:\users\xeyyam\documents\visual studio 2017\Projects\ardicil\ardicil\obj\Debug\ardicil.pdb
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\bin\Debug\ardicil.exe.config
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\bin\Debug\ardicil.exe
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\bin\Debug\ardicil.pdb
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\obj\Debug\ardicil.csprojResolveAssemblyReference.cache
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\obj\Debug\ardicil.exe
+C:\Users\Xeyyam\Desktop\New folder\ardicil\ardicil\obj\Debug\ardicil.pdb

@@ -1,0 +1,6 @@
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\bin\Debug\guzgu_eksi.exe.config
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\bin\Debug\guzgu_eksi.exe
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\bin\Debug\guzgu_eksi.pdb
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\obj\Debug\guzgu_eksi.csprojResolveAssemblyReference.cache
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\obj\Debug\guzgu_eksi.exe
+C:\Users\Xeyyam\Desktop\New folder\guzgu_eksi\guzgu_eksi\obj\Debug\guzgu_eksi.pdb
